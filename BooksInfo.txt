@@ -1,0 +1,17 @@
+1-25368-458-5, Cottrell S, 2008, The Study Skills Handbook, Palgrave MacMillan
+9-32179-028-1, Crème P and Lea M, 2008, Writing at University: a guide for students, Open University Press
+6-99512-7348-3, Harrison A, 2009,  Business Environment in a Global Context,  OUP
+2-98566-1248-9, Needle D, 2010, Business in Context: an introduction to business and its environment, Cengage Learning
+1-98445-147-5, Price M & Maier P, 2007,  Effective study skills, Pearson Education
+1-98745-332-3, Race P, 2003, How to study: practical tips for university students, Blackwell
+6-88410-038-5, Kurose J and Ross K, 2013, Computer Networking: A Top-Down Approach, Prentice Hall
+4-22974-008-9, Tanenbaum A, 2007, Modern Operating Systems, Pearson Prentice Hall
+1-12458-332-9, Bott F, 2005, Professional Issues in Information Technology, The British Computer Society
+2-98410-995-6, Bates B, 2005, Head First Java, O'Reilly & Associates
+3-77112-555-3, Deitel H and Deitel J, 2011, Java How to Program Pearson 
+6-14789-356-9, Horstmann C and Cornell C, 2012, Core Java 2 Vol I – Fundamentals, Prentice Hall
+8-78539-112-1, McConnell, S, 2004, Code Complete: A Practical Handbook of Software Construction, Microsoft Press International
+5-02360-302-9, Niemeyer P & Knudsen J, 2005, Learning Java, O'Reilly 
+4-12489-349-5, Sierra K and Bates B, 2006,  Head First Java, O’Reilly 
+9-98745-001-3, Ward Bynum T and Rogerson S, 2003, Computer Ethics And Professional Responsibility, Blackwell
+, , , , 
